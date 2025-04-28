@@ -1,8 +1,6 @@
 # 👋 Hey there! Welcome to my GitHub!
 
-![GitHub Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
-## 🚀 About Me
+![GitHub Banner](https://raw.githubusercontent.com/imeneBoujarra/imeneBoujarra/main/Imenbanner.png)
 
 - 🧑‍💻 Passionate developer exploring new technologies
 - 💡 Always learning and building cool projects
