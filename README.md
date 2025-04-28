@@ -13,10 +13,13 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 Contributions
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imeneBoujarra&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imeneBoujarra&layout=compact&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ayangweb/ayangweb/master/assets/github-contribution-grid-snake.svg">
+</picture>
 
 ## 🔗 Connect with Me
 
